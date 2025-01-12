@@ -1,2 +1,2 @@
-# kodluyoruz_ilk-dev
+# kodluyoruz_ilkodev
 Kodluyoruz Eğitimi kapsamında yaptığım ilk ödev
